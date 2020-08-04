@@ -1,7 +1,7 @@
 {
-  "version" : "1.3",
+  "version" : "2.0",
   "tags" : "Cheats and God Items",
-  "author" : "Uberman",
+  "author" : "u/vlad",
   "description" : "This mod adds super cheating thing. Generator that generates 999999999999W from nothing.\n\nYou can only cheat this item by command [b][u]/spawnitem isn_cheat_generator[/u][/b]",
   "name" : "hyper generator",
   "priority" : 9999,
