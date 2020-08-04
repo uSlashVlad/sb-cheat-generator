@@ -1,0 +1,37 @@
+{
+  "objectName" : "isn_cheat_generator",
+  "rarity" : "Legendary",
+    "colonyTags" : [ "science" ],
+  "category" : "wire",
+  "price" : 0,
+  "description" : "Uses nothing to generate electricity. It can generate almost endless amount of power.",
+  "shortdescription" : "^cyan;Hyper Power Generator^reset;",
+  "race" : "generic",
+  "printable" : false,
+
+  "inventoryIcon" : "isn_cheat_generator_inv.png",
+  "orientations" : [
+    {
+      "dualImage" : "isn_cheat_generator_base.png",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "isn_cheat_generator.animation",
+  "animationParts" : {
+    "meter" : "isn_cheat_generator_meter.png",
+    "base" : "isn_cheat_generator_base.png"
+  },
+  "animationPosition" : [0, 0],
+  
+  "scripts" : [ "/scripts/power.lua","/objects/power/isn_cheat_generator.lua" ],
+  "scriptDelta" : 60,
+  
+  "outputNodes" : [ [2, 1] ],
+  
+  "isn_powerSupplier" : true,
+  "powertype" : "output",
+  "powerLevel" : 999999999999
+}
