@@ -1,11 +1,11 @@
 {
-  "version" : "2.0",
-  "tags" : "Cheats and God Items",
   "author" : "u/vlad",
-  "description" : "This mod adds super cheating thing. Generator that generates 999999999999W from nothing.\n\nYou can only cheat this item by command [b][u]/spawnitem isn_cheat_generator[/u][/b]",
+  "description" : "This mod adds super cheating thing. Generator that generates 999999999999W from nothing.\n\nYou can only cheat this item by command [b][u]/spawnitem isn_cheat_generator[/u][/b]\n\n[b]My Discord: https://discord.gg/mQBjnuH[/b]",
+  "friendlyName" : "Hyper Power Generator",
+  "link" : "steam://url/CommunityFilePage/1802476090",
   "name" : "hyper generator",
   "priority" : 9999,
-  "friendlyName" : "Hyper Power Generator",
   "steamContentId" : "1802476090",
-  "link" : "steam://url/CommunityFilePage/1802476090"
+  "tags" : "Cheats and God Items|Furniture and Objects",
+  "version" : "2.0"
 }
